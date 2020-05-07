@@ -1,0 +1,17 @@
+body{
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 300;
+}
+.logoey img {
+    width: 45em;
+}
+h1{
+    font-weight: bold;
+}
+.carousel-indicators li 
+{
+    width: 10px;
+    height: 10px;
+    border-radius: 50%;
+ 
+}
