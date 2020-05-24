@@ -1,9 +1,13 @@
 body{
     font-family: 'Montserrat', sans-serif;
     font-weight: 300;
+    
+}
+nav img {
+    width: 35%;
 }
 .logoey img {
-    width: 45em;
+    width: 90%;
 }
 h1{
     font-weight: bold;
@@ -14,4 +18,8 @@ h1{
     height: 10px;
     border-radius: 50%;
  
+}
+
+footer{
+    background-color: #68fa7b;
 }
